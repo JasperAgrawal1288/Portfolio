@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jasper Agrawal - About Me
-permalink: /about/
+title: Sealandserpent
+permalink: /sealandserpent/
 ---
 
 <form id="password-gate" style="text-align: center;">
@@ -13,7 +13,7 @@ permalink: /about/
 </form>
 
 <div id="protected-content" hidden>
-  <h2>About Me</h2>
+  <h2>Sealandserpent</h2>
   <p>Hi, my name is Jasper they call me The curse of Ra</p>
 
 </div>
