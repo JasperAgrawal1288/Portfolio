@@ -13,7 +13,8 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Jasper Agrawal
 description              : Jasper Agrawal - Projects and CV 
-baseurl                  : "/Portfolio" # Set this to your repo name 
+url: "https://JasperAgrawal1288.github.io"
+baseurl: "/Portfolio" # repo name
 
 # Theme and Style
 theme: jekyll-theme-minimal
