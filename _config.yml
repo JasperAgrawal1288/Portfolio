@@ -8,11 +8,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : Jasper Agrawal Portfolio
+title                    : Jasper Agrawal's Portfolio
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : 
 name                     : Jasper Agrawal
-description              : Jasper Agrawal - Projects and CV 
+description              : Jasper Agrawal - Projects and Resume 
 url: "https://JasperAgrawal1288.github.io"
 baseurl: "/Portfolio" # repo name
 
