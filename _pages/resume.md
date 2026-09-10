@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Jasper Agrawal - CV
-permalink: /cv/
+title: Jasper Agrawal - Resume
+permalink: /resume/
 ---
 ## Curriculum Vitae
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/katex.min.css" integrity="sha384-..." crossorigin="anonymous">
@@ -9,7 +9,7 @@ permalink: /cv/
 <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.0/dist/contrib/auto-render.min.js" integrity="sha384-..." crossorigin="anonymous"
     onload="renderMathInElement(document.body);"></script>
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [ja627@cornell.edu](mailto:ja627@cornell.edu) | | | **Phone:** +607 262 6930
