@@ -13,7 +13,7 @@ permalink: /sealandserpent/
 </form>
 
 <div id="protected-content" hidden>
-  <h2>Sealandserpent</h2>
+  <h2>Welcome Fellow Snakes</h2>
   <p>hi</p>
 
 </div>
