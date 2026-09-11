@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Sealandserpent
+title: Welcome Fellow Snakes 
 permalink: /sealandserpent/
 ---
 
@@ -14,7 +14,7 @@ permalink: /sealandserpent/
 
 <div id="protected-content" hidden>
   <h2>Sealandserpent</h2>
-  <p>Hi, my name is Jasper they call me The curse of Ra</p>
+  <p>hi</p>
 
 </div>
 
