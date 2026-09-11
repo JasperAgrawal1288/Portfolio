@@ -24,13 +24,13 @@ permalink: /resume/
 
 - **Ithaca High School**  
   *High School Diploma*  
-  Graduation: [June, 2023]
+  Graduation: June, 2023
 
 ---
 
 #### Skills
 - **Software & Programming:** $$ \LaTeX $$, Autodesk Fusion 360, FIJI, GEE/GIS, HEC-HMS, Python, MATLAB, R, Julia 
-- **General:** Environmental Modling, Technical writing, Water sampling, 
+- **General:** Environmental Modling, Technical writing, Water sampling
 
 ---
 
